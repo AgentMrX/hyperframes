@@ -1,0 +1,12 @@
+{
+  "name": "hyperframes",
+  "description": "HyperFrames by HeyGen. Write HTML, render video. Compositions, GSAP and runtime adapter animations, captions, voiceovers, audio-reactive visuals, and website capture for HyperFrames.",
+  "version": "0.8.174",
+  "author": {
+    "name": "Mr. Rao AI",
+    "url": "https://mrraoai.com"
+  },
+  "homepage": "https://mrraoai.com/resources/hyperframes-make-videos-with-claude-code/",
+  "repository": "https://github.com/AgentMrX/hyperframes",
+  "license": "Apache-2.0"
+}
